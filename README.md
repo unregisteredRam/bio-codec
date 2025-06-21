@@ -1,5 +1,5 @@
 # bio-codec
-
+     #task 2
 #Greetings
 a=input('Enter your first name: ')
 b=input('Enter your last name: ' )
@@ -8,7 +8,7 @@ print('Hello, ' +c+ ' !' + ' Welcome' + ' to' + ' the' + ' Python' + ' program.'
 
 
 '''
-
+      #task 1
 #basic mathematical function
 a=input('Enter the first number :')
 a=float(a)
